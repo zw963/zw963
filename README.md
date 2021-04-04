@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**zw963/zw963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/zw963">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<a href="https://open.spotify.com/">
+  <img align="center" width="48%" src="https://novatorem.zw963.vercel.app/api/spotify" />
+</a>
+<a href="https://github.com/zw963">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
+<a href="https://github.com/zw963">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/zw963">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+<a href="https://github.com/zw963">
+  <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+<a href="https://github.com/zw963">
+  <img align="right" src="./metadata.svg" />
+</a>
