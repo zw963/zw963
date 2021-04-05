@@ -4,7 +4,7 @@ name: Get all latest stats SVG
 on:
   # Schedule updates
   schedule: [{cron: "0 * * * *"}]
-  push: {branches: "master"}
+  push: {branches: ["master", "main"]}
 
 jobs:
   header:
