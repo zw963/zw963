@@ -1,10 +1,6 @@
-### Hi there 👋
-
+<!-- Stolen from https://github.com/jcs090218/jcs090218/blob/master/README.md -->
 <a href="https://github.com/zw963">
   <img align="center" width="49%" src="./header.svg" />
-</a>
-<a href="https://open.spotify.com/">
-  <img align="center" width="48%" src="https://novatorem.zw963.vercel.app/api/spotify" />
 </a>
 <a href="https://github.com/zw963">
   <img align="center" width="49%" src="./acti_comm.svg" />
