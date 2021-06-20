@@ -38,11 +38,11 @@
 
 > 🏆 334 Contributions in the Year 2021
  > 
-> 📦 1000.0 kB Used in Github's Storage 
+> 📦 999.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 144 Public Repositories 
+> 📜 145 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
