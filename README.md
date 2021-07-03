@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-113-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 **🐱 My Github Data** 
 
