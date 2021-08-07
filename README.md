@@ -32,11 +32,11 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-170-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 323 Contributions in the Year 2021
+> 🏆 325 Contributions in the Year 2021
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
