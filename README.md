@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
 
 **🐱 My Github Data** 
 
@@ -42,7 +42,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 146 Public Repositories 
+> 📜 147 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
