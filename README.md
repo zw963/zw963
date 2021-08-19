@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-296-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-294-blue)
 
 **🐱 My Github Data** 
 
@@ -106,5 +106,5 @@ Emacs Lisp               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zw963/zw963/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2021
+ Last Updated on 19/08/2021
 <!--END_SECTION:waka-->
