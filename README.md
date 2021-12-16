@@ -32,13 +32,11 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,217 Contributions in the Year 2021
+> 🏆 1,219 Contributions in the Year 2021
  > 
 > 📦 951.7 kB Used in GitHub's Storage 
  > 
@@ -53,8 +51,8 @@
 ```text
 🌞 Morning    51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
 🌆 Daytime    300 commits    ████████░░░░░░░░░░░░░░░░░   33.19% 
-🌃 Evening    328 commits    █████████░░░░░░░░░░░░░░░░   36.28% 
-🌙 Night      225 commits    ██████░░░░░░░░░░░░░░░░░░░   24.89%
+🌃 Evening    326 commits    █████████░░░░░░░░░░░░░░░░   36.06% 
+🌙 Night      227 commits    ██████░░░░░░░░░░░░░░░░░░░   25.11%
 
 ```
 📅 **I'm Most Productive on Monday** 
