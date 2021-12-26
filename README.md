@@ -32,11 +32,13 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,327 Contributions in the Year 2021
+> 🏆 1,326 Contributions in the Year 2021
  > 
 > 📦 974.5 kB Used in GitHub's Storage 
  > 
@@ -75,13 +77,16 @@ Sunday       141 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Emacs Lisp               1 hr 52 mins        ███████████████████████░░   91.96% 
+Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Emacs                    2 hrs 2 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
