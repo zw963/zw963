@@ -32,13 +32,11 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2015%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,332 Contributions in the Year 2021
+> 🏆 1,333 Contributions in the Year 2021
  > 
 > 📦 975.5 kB Used in GitHub's Storage 
  > 
