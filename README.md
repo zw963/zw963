@@ -38,7 +38,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,333 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 975.7 kB Used in GitHub's Storage 
  > 
@@ -108,5 +108,5 @@ Emacs Lisp               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zw963/zw963/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
