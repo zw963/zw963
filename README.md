@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,7 +40,7 @@
 
 > 🏆 38 Contributions in the Year 2022
  > 
-> 📦 997.5 kB Used in GitHub's Storage 
+> 📦 997.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
