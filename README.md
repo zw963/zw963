@@ -77,16 +77,13 @@ Sunday       149 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Emacs Lisp               59 mins             ██████████████░░░░░░░░░░░   58.98% 
-Dart                     33 mins             ████████░░░░░░░░░░░░░░░░░   32.69% 
-Ruby                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.7% 
-Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Emacs                    1 hr 41 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 41 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -107,5 +104,5 @@ Emacs Lisp               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zw963/zw963/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2022 17:08:36 UTC
+ Last Updated on 27/01/2022 18:55:58 UTC
 <!--END_SECTION:waka-->
