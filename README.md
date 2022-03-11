@@ -32,6 +32,8 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My GitHub Data** 
@@ -102,5 +104,5 @@ Emacs Lisp               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zw963/zw963/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/03/2022 16:55:08 UTC
+ Last Updated on 11/03/2022 18:41:48 UTC
 <!--END_SECTION:waka-->
