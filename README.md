@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,7 +44,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 173 Public Repositories 
+> 📜 174 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -104,5 +104,5 @@ Emacs Lisp               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zw963/zw963/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/06/2022 15:48:50 UTC
+ Last Updated on 29/06/2022 17:19:54 UTC
 <!--END_SECTION:waka-->
