@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -104,5 +104,5 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zw963/zw963/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/07/2022 15:50:36 UTC
+ Last Updated on 08/07/2022 17:04:11 UTC
 <!--END_SECTION:waka-->
