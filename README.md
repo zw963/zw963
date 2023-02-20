@@ -38,8 +38,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 172 Contributions in the Year 2023
- > 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -115,5 +113,5 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zw963/zw963/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2023 09:57:55 UTC
+ Last Updated on 20/02/2023 09:59:11 UTC
 <!--END_SECTION:waka-->
