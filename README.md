@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -112,5 +112,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2023 15:45:00 UTC
+ Last Updated on 23/02/2023 16:46:58 UTC
 <!--END_SECTION:waka-->
