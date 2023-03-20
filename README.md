@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,7 +44,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 190 Public Repositories 
+> 📜 191 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -112,5 +112,5 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2023 07:44:38 UTC
+ Last Updated on 20/03/2023 08:51:09 UTC
 <!--END_SECTION:waka-->
