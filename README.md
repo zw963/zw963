@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,7 +40,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 299 Contributions in the Year 2023
+> 🏆 301 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -98,11 +98,11 @@ Linux                    12 hrs 58 mins      ███████████�
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     47 repos            ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Crystal                  33 repos            █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Shell                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Ruby                     47 repos            ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Crystal                  34 repos            █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Shell                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
@@ -112,5 +112,5 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2023 13:30:08 UTC
+ Last Updated on 25/03/2023 14:53:03 UTC
 <!--END_SECTION:waka-->
