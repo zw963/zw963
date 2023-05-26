@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -40,7 +40,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 476 Contributions in the Year 2023
+> 🏆 478 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -112,5 +112,5 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2023 13:30:24 UTC
+ Last Updated on 26/05/2023 14:41:17 UTC
 <!--END_SECTION:waka-->
