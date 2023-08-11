@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,16 +75,20 @@ Sunday                   2154 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     4 mins              █████████░░░░░░░░░░░░░░░░   37.33 % 
+Ruby                     3 mins              ████████░░░░░░░░░░░░░░░░░   30.96 % 
+SSH Config               2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Emacs                    11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Dropbox                  7 mins              ███████████████░░░░░░░░░░   61.67 % 
+marketbet_crawler        4 mins              ██████████░░░░░░░░░░░░░░░   38.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -104,5 +108,5 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2023 16:00:21 UTC
+ Last Updated on 11/08/2023 16:10:36 UTC
 <!--END_SECTION:waka-->
