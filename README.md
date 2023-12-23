@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-849%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-849%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -111,5 +111,5 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2023 15:45:59 UTC
+ Last Updated on 23/12/2023 15:54:46 UTC
 <!--END_SECTION:waka-->
