@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -40,7 +40,7 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 265 Contributions in the Year 2024
+> 🏆 263 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -112,5 +112,5 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2024 14:53:40 UTC
+ Last Updated on 17/03/2024 15:38:56 UTC
 <!--END_SECTION:waka-->
