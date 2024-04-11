@@ -32,8 +32,6 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2024%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -110,5 +108,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2024 15:54:03 UTC
+ Last Updated on 11/04/2024 16:01:47 UTC
 <!--END_SECTION:waka-->
