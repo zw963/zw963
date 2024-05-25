@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C203%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,7 +40,7 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 659 Contributions in the Year 2024
+> 🏆 660 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -97,11 +97,11 @@ Linux                    6 hrs 15 mins       ███████████�
 **I Mostly Code in Ruby** 
 
 ```text
-Ruby                     28 repos            ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Crystal                  26 repos            ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Elixir                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Makefile                 2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Ruby                     28 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Crystal                  27 repos            ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Elixir                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Makefile                 2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
@@ -111,5 +111,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2024 05:04:35 UTC
+ Last Updated on 25/05/2024 05:13:09 UTC
 <!--END_SECTION:waka-->
