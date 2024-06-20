@@ -32,15 +32,13 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🏆 780 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -112,5 +110,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2024 18:43:31 UTC
+ Last Updated on 20/06/2024 18:51:44 UTC
 <!--END_SECTION:waka-->
