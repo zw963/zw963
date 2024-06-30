@@ -40,8 +40,6 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 815 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 197 Public Repositories 
@@ -104,5 +102,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 11:03:39 UTC
+ Last Updated on 30/06/2024 11:12:13 UTC
 <!--END_SECTION:waka-->
