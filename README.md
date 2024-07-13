@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -73,16 +73,24 @@ Sunday                   2228 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Crystal                  2 hrs 6 mins        ████████████████░░░░░░░░░   62.20 % 
+Org                      1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.56 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Emacs Lisp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Emacs                    3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+translater               1 hr 50 mins        ██████████████░░░░░░░░░░░   54.56 % 
+org                      1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.56 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+.emacs.d                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Dropbox                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Crystal** 
@@ -102,5 +110,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 16:04:58 UTC
+ Last Updated on 13/07/2024 16:13:10 UTC
 <!--END_SECTION:waka-->
