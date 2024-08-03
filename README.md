@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C290%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,16 +75,18 @@ Sunday                   2230 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 12 mins       █████████████████████████   100.00 % 
+Markdown                 6 hrs 30 mins       █████████████████████████   99.97 % 
+Org                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Emacs                    4 hrs 12 mins       █████████████████████████   100.00 % 
+Emacs                    6 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 12 mins       █████████████████████████   100.00 % 
+Unknown Project          6 hrs 30 mins       █████████████████████████   99.97 % 
+org                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    4 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -104,5 +106,5 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2024 16:45:18 UTC
+ Last Updated on 03/08/2024 16:54:23 UTC
 <!--END_SECTION:waka-->
