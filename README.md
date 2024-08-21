@@ -75,18 +75,16 @@ Sunday                   2230 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Git                      7 mins              ██████████████░░░░░░░░░░░   57.83 % 
-Other                    5 mins              ███████████░░░░░░░░░░░░░░   42.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Emacs                    12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-arch                     7 mins              ██████████████░░░░░░░░░░░   57.83 % 
-Dropbox                  5 mins              ███████████░░░░░░░░░░░░░░   42.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Ruby** 
@@ -106,5 +104,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 16:49:33 UTC
+ Last Updated on 21/08/2024 17:00:22 UTC
 <!--END_SECTION:waka-->
