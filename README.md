@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C301%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,16 +75,24 @@ Sunday                   2230 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 5 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.93 % 
+Crystal                  2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Org                      1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Roff                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Emacs                    12 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+org                      7 hrs 37 mins       ███████████████░░░░░░░░░░   60.92 % 
+myip                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Dropbox                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Unknown Project          45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+magic-haversack          38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    12 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -104,5 +112,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2024 16:50:13 UTC
+ Last Updated on 29/08/2024 17:00:26 UTC
 <!--END_SECTION:waka-->
