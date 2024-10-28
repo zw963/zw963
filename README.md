@@ -75,21 +75,16 @@ Sunday                   2247 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Org                      2 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.54 % 
-Crystal                  1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   35.30 % 
-Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Emacs                    4 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-org                      2 hrs 22 mins       █████████████░░░░░░░░░░░░   50.93 % 
-pokemon_crawler          1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   35.30 % 
-Unknown Project          38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Ruby** 
@@ -109,5 +104,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2024 16:04:40 UTC
+ Last Updated on 28/10/2024 16:19:04 UTC
 <!--END_SECTION:waka-->
