@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C313%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C317%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -75,16 +75,24 @@ Sunday                   2247 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Crystal                  13 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   39.18 % 
+Org                      7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Ruby                     5 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Bash                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Other                    1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Emacs                    34 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+procodile_cr             17 hrs 8 mins       ████████████░░░░░░░░░░░░░   49.03 % 
+org                      8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+procodile                5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Dropbox                  2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+emacs.d                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    34 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Ruby** 
@@ -104,5 +112,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2024 16:55:16 UTC
+ Last Updated on 06/11/2024 17:10:04 UTC
 <!--END_SECTION:waka-->
