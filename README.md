@@ -40,7 +40,7 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,144 Contributions in the Year 2024
+> 🏆 1,145 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -75,21 +75,16 @@ Sunday                   2258 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Crystal                  59 mins             ███████████████████░░░░░░   76.56 % 
-Org                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Ruby                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Emacs                    1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-org                      59 mins             ███████████████████░░░░░░   76.94 % 
-college                  17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-ruby_tools               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Crystal** 
@@ -109,5 +104,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 16:51:05 UTC
+ Last Updated on 27/12/2024 17:03:23 UTC
 <!--END_SECTION:waka-->
