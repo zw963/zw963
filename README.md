@@ -32,6 +32,8 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2037%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -73,24 +75,16 @@ Sunday                   2258 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Org                      24 mins             ████████░░░░░░░░░░░░░░░░░   30.82 % 
-Text                     22 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Bash                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Crystal                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Emacs                    1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-org                      48 mins             ███████████████░░░░░░░░░░   59.68 % 
-Dropbox                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-emacs.d                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-marketbet_crawler        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-daka                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Crystal** 
@@ -110,5 +104,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2025 16:53:49 UTC
+ Last Updated on 10/01/2025 17:06:13 UTC
 <!--END_SECTION:waka-->
