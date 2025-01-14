@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -75,16 +75,24 @@ Sunday                   2258 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Crystal                  19 hrs 26 mins      █████████████████░░░░░░░░   69.14 % 
+JavaScript               3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+SCSS                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Text                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Emacs                    28 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+website                  21 hrs 33 mins      ███████████████████░░░░░░   76.71 % 
+markd                    4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+org                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Dropbox                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+tartrazine1              22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    28 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Crystal** 
@@ -104,5 +112,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 16:52:42 UTC
+ Last Updated on 14/01/2025 17:07:55 UTC
 <!--END_SECTION:waka-->
