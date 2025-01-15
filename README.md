@@ -40,8 +40,6 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 207 Public Repositories 
@@ -112,5 +110,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2025 03:21:32 UTC
+ Last Updated on 15/01/2025 03:34:00 UTC
 <!--END_SECTION:waka-->
