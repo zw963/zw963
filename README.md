@@ -32,7 +32,7 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,45 +48,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1060 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-🌆 Daytime                5093 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌃 Evening                6559 commits        ██████████░░░░░░░░░░░░░░░   38.51 % 
-🌙 Night                  4320 commits        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2178 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Tuesday                  2920 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Wednesday                2608 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 2415 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Friday                   2121 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Saturday                 2510 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Sunday                   2280 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Crystal** 
 
 ```text
@@ -104,5 +65,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 16:53:03 UTC
+ Last Updated on 04/02/2025 17:05:38 UTC
 <!--END_SECTION:waka-->
