@@ -32,8 +32,6 @@
 ## Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -112,5 +110,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 15:54:54 UTC
+ Last Updated on 15/02/2025 16:06:23 UTC
 <!--END_SECTION:waka-->
