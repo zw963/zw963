@@ -46,6 +46,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                631 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+🌆 Daytime                3626 commits        ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+🌃 Evening                4636 commits        █████████░░░░░░░░░░░░░░░░   37.99 % 
+🌙 Night                  3309 commits        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Tuesday                  2228 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Wednesday                2122 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Thursday                 1753 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Friday                   1413 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Saturday                 1612 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Sunday                   1556 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Crystal** 
 
 ```text
@@ -63,5 +102,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 08:36:05 UTC
+ Last Updated on 03/01/2026 08:38:16 UTC
 <!--END_SECTION:waka-->
