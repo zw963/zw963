@@ -34,7 +34,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C850%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -90,11 +90,11 @@ No Activity Tracked This Week
 **I Mostly Code in Crystal** 
 
 ```text
-Crystal                  38 repos            ████████░░░░░░░░░░░░░░░░░   31.40 % 
-Ruby                     29 repos            ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Elixir                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Crystal                  39 repos            ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Ruby                     29 repos            ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+JavaScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Elixir                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
@@ -104,5 +104,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2026 16:12:50 UTC
+ Last Updated on 11/01/2026 16:22:31 UTC
 <!--END_SECTION:waka-->
