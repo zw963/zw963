@@ -40,6 +40,8 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
+> 🏆 96 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 220 Public Repositories 
@@ -96,5 +98,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 00:36:43 UTC
+ Last Updated on 15/02/2026 00:37:09 UTC
 <!--END_SECTION:waka-->
