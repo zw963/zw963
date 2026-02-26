@@ -87,8 +87,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in Ruby** 
 
+```text
+Ruby                     28 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
+Shell                    11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Crystal                  10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Elixir                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -98,5 +104,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2026 19:01:40 UTC
+ Last Updated on 26/02/2026 19:02:25 UTC
 <!--END_SECTION:waka-->
