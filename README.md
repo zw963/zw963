@@ -87,14 +87,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Crystal** 
-
 ```text
-Crystal                  38 repos            ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Ruby                     31 repos            ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Elixir                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+
 ```
 
 
@@ -104,5 +98,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2026 03:20:19 UTC
+ Last Updated on 20/03/2026 03:20:56 UTC
 <!--END_SECTION:waka-->
