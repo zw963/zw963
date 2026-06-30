@@ -48,24 +48,24 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                1658 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+🌆 Daytime                8447 commits        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+🌃 Evening                11204 commits       ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌙 Night                  7970 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   4019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Tuesday                  4463 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Wednesday                4105 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Thursday                 3762 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Friday                   4035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Saturday                 4349 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Sunday                   4546 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 ```
 
 
@@ -87,8 +87,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in Crystal** 
 
+```text
+Crystal                  36 repos            ████████░░░░░░░░░░░░░░░░░   31.03 % 
+Ruby                     30 repos            ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Elixir                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
@@ -98,5 +104,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 19:19:49 UTC
+ Last Updated on 30/06/2026 19:35:40 UTC
 <!--END_SECTION:waka-->
