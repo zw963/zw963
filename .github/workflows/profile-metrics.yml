@@ -1,0 +1,115 @@
+name: Update profile metrics
+
+on:
+  schedule:
+    # Every Monday at 08:47 in Asia/Shanghai (00:47 UTC).
+    - cron: "47 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-updates
+  cancel-in-progress: false
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Render profile overview
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zw963
+          filename: header.svg
+          output_action: none
+          template: classic
+          base: header
+          config_timezone: Asia/Shanghai
+
+      - name: Render activity and community
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zw963
+          filename: acti_comm.svg
+          output_action: none
+          template: classic
+          base: activity, community
+          config_timezone: Asia/Shanghai
+
+      - name: Render repositories
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zw963
+          filename: repositories.svg
+          output_action: none
+          template: classic
+          base: repositories
+          config_timezone: Asia/Shanghai
+
+      - name: Render contribution calendar
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zw963
+          filename: iso_calender.svg
+          output_action: none
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: Render issues, pull requests, and languages
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zw963
+          filename: issue_pr_lang.svg
+          output_action: none
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          plugin_followup: yes
+          plugin_languages: yes
+
+      - name: Render profile metadata
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zw963
+          filename: metadata.svg
+          output_action: none
+          template: classic
+          base: metadata
+          config_timezone: Asia/Shanghai
+
+      - name: Commit rendered metrics
+        shell: bash
+        run: |
+          sudo cp /metrics_renders/*.svg ./
+          sudo chown "$(id -u):$(id -g)" ./*.svg
+          git add -- \
+            header.svg \
+            acti_comm.svg \
+            repositories.svg \
+            iso_calender.svg \
+            issue_pr_lang.svg \
+            metadata.svg
+
+          if git diff --cached --quiet; then
+            echo "Metrics are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile metrics [skip ci]"
+          git push

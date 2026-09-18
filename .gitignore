@@ -1,0 +1,7 @@
+# Editor backup and undo files
+*~
+\#*\#
+*.~undo-tree~
+
+# Local visual reference
+/1.png
