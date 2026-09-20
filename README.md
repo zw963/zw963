@@ -40,13 +40,13 @@ I work mainly with Crystal, Ruby, and Shell, and help maintain the
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 674 Contributions in the Year 2026
+> 🏆 740 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -57,21 +57,21 @@ I work mainly with Crystal, Ruby, and Shell, and help maintain the
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2007 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-🌆 Daytime                11054 commits       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-🌃 Evening                14536 commits       █████████░░░░░░░░░░░░░░░░   37.85 % 
-🌙 Night                  10810 commits       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌞 Morning                2047 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌆 Daytime                11219 commits       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+🌃 Evening                14687 commits       █████████░░░░░░░░░░░░░░░░   37.76 % 
+🌙 Night                  10940 commits       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   5560 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Tuesday                  5618 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Wednesday                5027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 4483 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Friday                   5688 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 5762 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Sunday                   6269 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Monday                   5599 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Tuesday                  5679 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Wednesday                5099 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Thursday                 4565 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Friday                   5807 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 5838 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Sunday                   6306 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 ```
 
 
@@ -102,11 +102,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Crystal** 
 
 ```text
-Crystal                  33 repos            ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Ruby                     30 repos            ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Elixir                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Crystal                  34 repos            ████████░░░░░░░░░░░░░░░░░   31.78 % 
+Ruby                     30 repos            ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Elixir                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 
 
@@ -116,5 +116,5 @@ Elixir                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zw963/zw963/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 04:50:54 UTC
+ Last Updated on 20/09/2026 05:10:22 UTC
 <!--END_SECTION:waka-->
